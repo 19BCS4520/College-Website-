@@ -1,0 +1,2 @@
+# College-Website-
+ This website will be a responsive web application for a college that will allow the admin to manage the resources. The admin can have the record of their Student and teacher online and can access it at any time using this portal. The platform will allow the student and teacher to Login and get the information related to college. The purpose of the website is to bring easier administration of a college between the teachers and students.
